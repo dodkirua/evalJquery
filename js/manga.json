@@ -1,0 +1,82 @@
+{
+  "q1": {
+    "question" : "Quelle a été le premier manga difusé en France sous forme d'animé ?",
+    "r1" : "Albator",
+    "r2" : "Goldorak",
+    "r3" : "Astro boy",
+    "r4" : "Candy",
+    "gr" : "r2"
+  },
+  "q2": {
+    "question" : "Brigitte Lecordier n'a pas doublé une de ses vois laquelle?",
+    "r1" : "Son goku",
+    "r2" : "Son Gohan",
+    "r3" : "son Goten",
+    "r4" : "Krilin",
+    "gr" : "r4"
+  },
+  "q3": {
+    "question" : "Quelle est le vrai nom de Nikki Larson",
+    "r1" : "Ryu ",
+    "r2" : "Ryô Saeba",
+    "r3" : "Hideyuki Makimura",
+    "r4" : "Rio de Janeiro",
+    "gr" : "r2"
+  },
+  "q4": {
+    "question" : "Comment s'appelle la famille de Kirua dans Hunter X Hunter",
+    "r1" : "Kurata",
+    "r2" : "Freecs",
+    "r3" : "Zoldik",
+    "r4" : "Paradinaito",
+    "gr" : "r3"
+  },
+  "q5": {
+    "question" : "Quelle est l'intru dans ces types de fruit du démon ?",
+    "r1" : "Paramécia",
+    "r2" : "Zoan",
+    "r3" : "Logia",
+    "r4" : "Frontia",
+    "gr" : "r4"
+  },
+  "q6": {
+    "question" : "Qui est le chevalier du scorpion dans Saint Seiya ?",
+    "r1" : "Dohko",
+    "r2" : "Shaka",
+    "r3" : "Shura",
+    "r4" : "Milo",
+    "gr" : "r4"
+  },
+  "q7": {
+    "question" : "Dans Ken le survivant quelle est l'art martial de Ken",
+    "r1" : "Nanto Roku Seiken",
+    "r2" : "Nanto GoshaSei ",
+    "r3" : "Hokuto Shinken",
+    "r4" : "Hokuto Ryuken",
+    "gr" : "r3"
+  },
+  "q8": {
+    "question" : "Dans Olive et Tom comment s'appelle le personnage principal ?",
+    "r1" : "Tsubasa Ōzora",
+    "r2" : "Genzō Wakabayashi",
+    "r3" : "Takeshi Sawada",
+    "r4" : "Kojirō Hyūga",
+    "gr" : "r1"
+  },
+  "q9": {
+    "question" : "Dans Fairy Tail quelle guilde n'existe pas",
+    "r1" : "Saber Tooth",
+    "r2" : "Lamia Scale",
+    "r3" : "White Pegasus",
+    "r4" : "Titan Nose",
+    "gr" : "r3"
+  },
+  "q10": {
+    "question" : "Quelle est la forme ultime des Zanpakutō dans Bleach",
+    "r1" : "Shikai",
+    "r2" : "Shohai",
+    "r3" : "Bankai",
+    "r4" : "Baka",
+    "gr" : "r3"
+  }
+}

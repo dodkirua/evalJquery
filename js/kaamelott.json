@@ -1,0 +1,83 @@
+{
+  "q1": {
+    "question" : "Qui joue Arthur Pendragon roi de Bretagne ?",
+    "r1" : "Lionel Astier",
+    "r2" : "Franck Pitiot",
+    "r3" : "Jean-Christophe Hembert",
+    "r4" : "Alexandre Astier",
+    "gr" : "r4"
+  },
+  "q2": {
+    "question" : "Qui est la mère de Guenièvre ?",
+    "r1" : "Ygerne",
+    "r2" : "Mevanwi",
+    "r3" : "Dematra",
+    "r4" : "Seli",
+    "gr" : "r4"
+  },
+  "q3": {
+    "question" : "Qui a inventé la botte secrète ?",
+    "r1" : "Perceval",
+    "r2" : "Gauvain",
+    "r3" : "Le maître d'arme",
+    "r4" : "Karadoc",
+    "gr" : "r4"
+  },
+  "q4": {
+    "question" : "Combien y a t'il  de pierre dans le chateau d'après Perceval ?",
+    "r1" : "16130",
+    "r2" : "18458",
+    "r3" : "14750",
+    "r4" : "21583",
+    "gr" : "r1"
+  },
+  "q5": {
+    "question" : "Quand Apparait pour la première fois Mewanwi (la femme de Karadoc) ?",
+    "r1" : "livre 1 ep 50",
+    "r2" : "livre 2 ep 40",
+    "r3" : "livre 1 ep 15",
+    "r4" : "livre 2 ep 10",
+    "gr" : "r4"
+  },
+  "q6": {
+    "question" : "Qui Joue Berlewen la femme de Bohort ?",
+    "r1" : "Valerie Benguigui",
+    "r2" : "Virginie Efira",
+    "r3" : "Adrianna Karembeu",
+    "r4" : "Estelle Lefébure",
+    "gr" : "r2"
+  },
+  "q7": {
+    "question" : "Qui sont les 2 paysans qui se chamaille tous le temps ?",
+    "r1" : "Ghethenoc et Grüdü",
+    "r2" : "Kadoc et Roparzh",
+    "r3" : "Kadoc et Grüdü",
+    "r4" : "Guethenoc et Roparz",
+    "gr" : "r4"
+  },
+  "q8": {
+    "question" : "Qui joue l'interprète du roi Burgonde",
+    "r1" : "Lorànt Deutsch",
+    "r2" : "Philippe Nahon",
+    "r3" : "Alain Chabat",
+    "r4" : "Tony Saba",
+    "gr" : "r1"
+  },
+  "q9": {
+    "question" : "Combien de point faut il au cul de chouette pour gagner ?",
+    "r1" : " 254",
+    "r2" : "343",
+    "r3" : "42",
+    "r4" : "Chante Sloubi",
+    "gr" : "r2"
+
+  },
+  "q10": {
+    "question" : "Quelle est le rêve de Perceval ?",
+    "r1" : "Aider Arthur pour le Graal",
+    "r2" : "Elever des chèvres dans les landes Irlandaise",
+    "r3" : "Voyager dans les étoiles",
+    "r4" : "Etre le roi de Bretagne",
+    "gr" : "r3"
+  }
+}

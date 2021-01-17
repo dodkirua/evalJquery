@@ -11,4 +11,79 @@ html {
 body {
     width: 100vw;
     height: 100vh;
+    background-color: lightskyblue;
+}
+
+#container {
+    background-color: whitesmoke;
+    width: 90%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0.2rem;
+    margin: 5%;
+    border: 2px solid black;
+    border-radius: 2%;
+    box-shadow: blue 2px 2px 10px, blue -2px -2px 10px;
+}
+
+#question, #answer {
+    padding: 0.5rem;
+    width: 100%;
+    font-size: 5rem;
+}
+
+#answer {
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    overflow-y: auto;
+}
+
+#question {
+    height: 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#buttonDiv {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.choice, .select, .choice2 {
+    width: 90%;
+}
+
+.choice2 {
+    font-size: 1rem;
+}
+
+@media screen and (max-width: 800px){
+    #question, #answer {
+        font-size: 4rem;
+    }
+}
+
+@media screen and (max-width: 600px){
+    #question, #answer {
+        font-size: 3rem;
+    }
+}
+
+@media screen and (max-width: 450px){
+    #question, #answer {
+        font-size: 2rem;
+    }
 }
