@@ -249,6 +249,3 @@ function end(){
 }
 
 choiceQuizz();
-
-
-
