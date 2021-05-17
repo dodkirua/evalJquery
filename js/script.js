@@ -219,11 +219,11 @@ function test(ans){
     answer.children().remove();
     if (ans === questionArray[ind].getAnswer()){
         score ++;
-        console.log("score "+score);
+
     }
     else{
         wrongAnswer.push(questionArray[ind].getQuestion()+"<br>"+questionArray[ind].getAnswer()+"<br>");
-        console.log(wrongAnswer)
+
     }
     if (ind < (questionArray.length-1)){
         ind++;
